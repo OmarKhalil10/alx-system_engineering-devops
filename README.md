@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # alx-system_engineering-devops
 
 This repository contains programs written for the system engineering and DevOps track at Alx SE program. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. I update this repo with my learning progresses and hands-on projects as listed below:
@@ -13,11 +12,6 @@ This repository contains programs written for the system engineering and DevOps 
 ## Author 
 + [Omar Khalil](https://github.com/OmarKhalil10)
 
----
-
 ## WARNING!!
 - This repo is done as a scholarship assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
 - This repo may contain some errors. If you notice any, please add a pull request.
-=======
-alx-system_engineering-devops
->>>>>>> b2e5b04a1e245a5940960689851d1e69c9d17c52
