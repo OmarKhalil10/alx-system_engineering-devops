@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Displays information about the file `holbertonschool`.
 
-if [ -e "holbertonschool" ]
+if [ -e "bestschool" ]
 then
-  echo "holbertonschool file exists"
+  echo "bestschool file exists"
   if [ -s "holbertonschool" ]
   then
     echo "holbertonschool file is not empty"
